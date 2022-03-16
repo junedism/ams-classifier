@@ -1,2 +1,8 @@
-# ams-classifier
-Build Machine Learning to predict whether a student would be late completing his/her study
+# Data Science Repo
+A repository containing data science project completed by me.
+
+<hr>
+
+## Contents
+- [AMS Classifier]()
+
